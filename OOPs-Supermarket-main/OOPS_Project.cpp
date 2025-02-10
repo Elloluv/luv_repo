@@ -50,7 +50,7 @@ m:
 		cout << "\n Enter Password :\t";
 		cin >> password;
 
-		if ((email == "parthprajapat2005@gmail.com") && (password == "Parth@2005"))
+		if ((email == "luv.g1011@gmail.com") && (password == "luv@2005"))
 		{
 			administrator();
 		}
